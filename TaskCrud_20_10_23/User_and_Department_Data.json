@@ -1,0 +1,39 @@
+//Users
+[
+  {
+    "UserId": 3,
+    "DepartmentId": 1,
+    "Name": "spandana",
+    "Password": "Aura123"
+  },
+  {
+    "UserId": 4,
+    "DepartmentId": 2,
+    "Name": "siva",
+    "Password": "Aura123"
+  },
+  {
+    "UserId": 5,
+    "DepartmentId": 2,
+    "Name": "siri",
+    "Password": "Aura123"
+  },
+  {
+    "UserId": 6,
+    "DepartmentId": 3,
+    "Name": "krishna",
+    "Password": "Aura123"
+  },
+  {
+    "UserId": 7,
+    "DepartmentId": 3,
+    "Name": "Veena",
+    "Password": "Aura123"
+  },
+  {
+    "UserId": 8,
+    "DepartmentId": 3,
+    "Name": "Prakash",
+    "Password": "Aura123"
+  }
+]

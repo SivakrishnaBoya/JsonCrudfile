@@ -1,0 +1,15 @@
+//  Departments
+[
+  {
+    "DepartmentId": 1,
+    "DepartmentName": "Aura"
+  },
+  {
+    "DepartmentId": 2,
+    "DepartmentName": "Antra"
+  },
+  {
+    "DepartmentId": 3,
+    "DepartmentName": "Techwish"
+  }
+]

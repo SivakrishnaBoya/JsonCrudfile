@@ -1,0 +1,4 @@
+Received request at: 23-10-2023 16:19:00
+Request Path: /api/Users
+Request Method: DELETE
+Client IP: ::1
